@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Bitter&family=Inspiration&family=Josefin+Sans&family=Questrial&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    /* overflow: hidden; */
+}
+.images{
+    height: 4rem;
+}
+
+.nav-item{
+    margin: 4px 15px;
+}
+.nav-link{
+    font-size: 1rem;
+}
+.container{
+    
+    background-color: black;
+    /* text-align: center; */
+}
+.second{
+    background-color: white;
+}
+.heade{
+    
+    color:white;
+     font-family: Work Sans;
+     font-weight: 600;
+     margin: 9rem 0rem;
+     line-height: 1.5;
+}
+
+.header{
+    background-color: black;
+}
+.imagess{
+    width: 100%;
+    padding: 30px 0px;
+}
+
+.mainpart{
+    align-items:center;
+    text-align: center;
+    margin: 6% 0px;
+}
+.second h4,p{
+    font-family: Roboto;
+}
+h4{
+    font-family: ubuntu;
+    font-weight: 600;
+}
+.fa-7x{
+  color: red;
+  margin: 4% 0;
+  
+}
+.test{
+    border-radius: 100%;
+    width: 10%;
+    margin: 20px;
+}
+.slide{
+    text-align: center;
+    
+    background-color: black;
+}
+h2,em {
+    font-family: "Poppins", sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 1.5;
+    color: #ffffff;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+em {
+    font-size: 1rem;
+    font-style: italic;
+}
+#press {
+    background-color: #000000;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-img {
+    width: 15%;
+    margin: 0px 20px 50px;
+}
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+.carouselExampleControls h2 {
+    font-family: "Poppins", sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 1.5;
+    color: #f6f6f6;
+}
+#cta {
+    background-color: #000000;
+    text-align: center;
+    padding: 100px 15% 40px;
+}
+h1 {
+    font-family: "Poppins", sans-serif;
+    line-height: 1.5;
+    font-size: 3.5rem;
+    font-weight: bolder;
+    color: #fff;
+}
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+#footer {
+    background-color: #fff;
+    text-align: center;
+    padding: 62px 16% 5%;
+}
+.social {
+    padding-bottom: 5%;
+}
+a{
+    color: #007bff;
+    text-decoration: none;
+}
+.spanSpace {
+    padding-left: 25px;
+    padding-right: 25px;
+}
